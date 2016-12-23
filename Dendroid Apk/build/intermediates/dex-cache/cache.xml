@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dwianto/AndroidStudioProjects/Dendroid Apk/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="be6fd54349e2cde7f4605f8096e2944ff944351a">
+        <dex dex="/Users/dwianto/AndroidStudioProjects/Dendroid Apk/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_c8f4ab9df2a438f54bade4375ebef360ad766f0a.jar" />
+    </item>
+    <item
+        jar="/Users/dwianto/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/dwianto/AndroidStudioProjects/Dendroid Apk/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_0db74ec4cb462ec3bcafe7a3556c93da264516b3.jar" />
+    </item>
+    <item
+        jar="/Users/dwianto/AndroidStudioProjects/Dendroid Apk/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bfe3ac9859555b739087e947e257c0c1f533b9f1">
+        <dex dex="/Users/dwianto/AndroidStudioProjects/Dendroid Apk/app/build/intermediates/pre-dexed/debug/instant-run_cf39cd1e1d1f4ee2c0c940d265a3cbeb6a59ed02.jar" />
+    </item>
+    <item
+        jar="/Users/dwianto/AndroidStudioProjects/Dendroid Apk/app/libs/httpmime-4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9ded70b76b604f4b4b499cb15a6f7cd4ce490ba0">
+        <dex dex="/Users/dwianto/AndroidStudioProjects/Dendroid Apk/app/build/intermediates/pre-dexed/debug/httpmime-4.0_aca773c718fc3e3a869f47cf9bc6d157083676ef.jar" />
+    </item>
+
+</items>
